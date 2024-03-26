@@ -1,0 +1,29 @@
+@charset "UTF-8";
+h3{
+	color: #AA2222;
+}
+
+table.table_1_css{
+	border: solid 2px #7777EF;
+	width: 950px;
+}
+tr{
+	height: 35px;
+	vertical-align: middle;
+}
+.div-1{
+	border: solid 3px #7777BB;
+	background-color: #FFFFCC;
+}
+.p-1{
+	font: italic;
+	font-weight: 600;
+	font-size: 18px;
+	color: rgb(0,128,128);
+}
+.span-1{
+	font: italic;
+	font-weight: 600;
+	font-size: 16px;
+	color: #EE5555;
+}
